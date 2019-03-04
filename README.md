@@ -1,4 +1,4 @@
-<h1>Second Assignment of E1-313 (Topics in Pattern Recognition)</h1>
+<h1>Second Assignment of E1-313 (TIPR)</h1>
 <h3>Deep Neural Network using Numpy</h3>
 <pre>
 Pros.
