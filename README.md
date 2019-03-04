@@ -11,4 +11,5 @@ Cons.
   3. Numerical stability in Sigmoid and other functions
   4. Variety of Cost functions can be added
   5. Adding Batch normalization and Dropout
+  6. Warm training
 </pre>
