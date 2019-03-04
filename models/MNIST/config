@@ -1,0 +1,3 @@
+[1568, 256, 10]
+['relu', 'tanh', 'softmax']
+standard
